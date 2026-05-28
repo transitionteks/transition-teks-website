@@ -1,5 +1,11 @@
-# Transition Teks Website
+# Transition Teks Multi-Page Website
 
-Open `index.html` in your browser to preview.
+Pages included:
+- index.html
+- services.html
+- process.html
+- industries.html
+- about.html
+- contact.html
 
-Upload this folder to GitHub, then connect it to Cloudflare Pages.
+Upload all files and the assets folder to GitHub, then connect the repository to Cloudflare Pages.
