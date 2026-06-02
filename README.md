@@ -1,9 +1,12 @@
-# Transition Teks Stock Photo Website
+# Transition Teks Vibrant Website
 
-This version uses remote stock-style technology/ITAD photo URLs for each page.
-Upload all files and the assets folder to GitHub, then deploy with Cloudflare Pages.
+Includes:
+- 10 pages
+- brighter vibrant design
+- clearer logo asset
+- hamburger menu
+- demo AI assistant
+- email/phone/website contact links
+- built-in tech stock-style SVG images
 
-Contact:
-transitionteks@gmail.com
-602.888.6096
-www.transitionteks.com
+Upload all files and folders to GitHub, then deploy with Cloudflare Pages.

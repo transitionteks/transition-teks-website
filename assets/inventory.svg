@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="Asset Documentation">
+<defs>
+<linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#f0fdf4"/><stop offset="1" stop-color="#dbeafe"/></linearGradient>
+<radialGradient id="glow" cx=".78" cy=".18" r=".65"><stop stop-color="#8b5cf6" stop-opacity=".35"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="760" rx="46" fill="url(#bg)"/>
+<rect width="1200" height="760" rx="46" fill="url(#glow)"/>
+<g opacity=".16" stroke="#111827" stroke-width="3" fill="none">
+<path d="M70 145h235l80 80h210"/><path d="M70 245h310l74 74h230"/><path d="M860 120h170l95 95"/><path d="M835 245h245"/><circle cx="995" cy="520" r="115"/><circle cx="180" cy="610" r="80"/>
+</g>
+
+        <g transform="translate(120 155)">
+          <rect x="0" y="0" width="500" height="550" rx="30" fill="#fff" opacity=".92"/>
+          <g fill="#111827" opacity=".13">
+            <rect x="60" y="70" width="380" height="44" rx="14"/>
+            <rect x="60" y="155" width="380" height="44" rx="14"/>
+            <rect x="60" y="240" width="380" height="44" rx="14"/>
+            <rect x="60" y="325" width="380" height="44" rx="14"/>
+            <rect x="60" y="410" width="380" height="44" rx="14"/>
+          </g>
+          <g fill="#16a34a"><circle cx="75" cy="92" r="10"/><circle cx="75" cy="177" r="10"/><circle cx="75" cy="262" r="10"/><circle cx="75" cy="347" r="10"/><circle cx="75" cy="432" r="10"/></g>
+        </g>
+        <g transform="translate(720 230)">
+          <rect x="0" y="0" width="360" height="240" rx="26" fill="#fff" opacity=".88"/>
+          <path d="M60 70h240M60 125h240M60 180h150" stroke="#16a34a" stroke-width="22" stroke-linecap="round"/>
+          <rect x="95" y="310" width="230" height="72" rx="24" fill="#fff" opacity=".88"/>
+        </g>
+<text x="70" y="690" font-family="Arial" font-size="44" font-weight="900" fill="#111827">Asset Documentation</text>
+<text x="72" y="727" font-family="Arial" font-size="22" font-weight="700" fill="#4b5563">Inventory, serials, condition and status</text>
+</svg>
