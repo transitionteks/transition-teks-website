@@ -1,1 +1,0 @@
-AI-fixed Transition Teks website. Upload all files and assets folder to GitHub, then deploy with Cloudflare Pages.
